@@ -25,11 +25,13 @@ El propósito principal es comprender cómo una aplicación frontend puede comun
 ## Información del Estudiante
 
 
-| Nombre(s) | Carlos Daniel|
-| Apellido(s) | Robles Romero|
-| Correo Electrónico |carlosdanielrobles21@gmail.com|
-| Asignatura |Desarrollo Web 2|
-| Tutor |Jonathan Mate|
+| Campo | Detalle |
+| --- | --- |
+| Nombre(s) | Carlos Daniel |
+| Apellido(s) | Robles Romero |
+| Correo Electrónico | carlosdanielrobles21@gmail.com |
+| Asignatura | Desarrollo Web 2 |
+| Tutor | Jonathan Mate |
 | Fecha de Entrega | 01/11/2026 |
 
 ---
@@ -189,12 +191,9 @@ Al finalizar el laboratorio, el estudiante deberá ser capaz de:
 ---
 
 ## Observaciones
-
--Aprendi a consumir datos desde una API REST
--Reforce mis capacidades al usar REACT
--Utilices pnpm en lugar de npm ya que lei que hace no mucho tuvieron problemas
- de seguridad con paquetes.
-
+* Aprendí a consumir datos desde una API REST.
+* Reforcé mis capacidades al usar React.
+* Utilicé pnpm en lugar de npm debido a los problemas de seguridad que ha tenido npm.
 ---
 
 ## Licencia
